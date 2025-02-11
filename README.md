@@ -56,7 +56,4 @@ This project is licensed under the MIT License.
 ## 🤝 Contributing
 Feel free to submit a pull request or open an issue for improvements.
 
-## 📬 Contact
-For any queries, reach out to: 
-- **Email:** subhammangi27@gmail.com
-- **GitHub:** [SUBHAMMANGI](https://github.com/SUBHAMMANGI)
+
